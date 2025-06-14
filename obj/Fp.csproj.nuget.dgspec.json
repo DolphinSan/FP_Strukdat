@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSC\\Strukdat\\FP\\Fp\\FP_Strukdat\\Fp.csproj": {}
+    "C:\\VSC\\Strukdat\\FP\\TempFp\\FP_Strukdat\\Fp.csproj": {}
   },
   "projects": {
-    "C:\\VSC\\Strukdat\\FP\\Fp\\FP_Strukdat\\Fp.csproj": {
+    "C:\\VSC\\Strukdat\\FP\\TempFp\\FP_Strukdat\\Fp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSC\\Strukdat\\FP\\Fp\\FP_Strukdat\\Fp.csproj",
+        "projectUniqueName": "C:\\VSC\\Strukdat\\FP\\TempFp\\FP_Strukdat\\Fp.csproj",
         "projectName": "Fp",
-        "projectPath": "C:\\VSC\\Strukdat\\FP\\Fp\\FP_Strukdat\\Fp.csproj",
+        "projectPath": "C:\\VSC\\Strukdat\\FP\\TempFp\\FP_Strukdat\\Fp.csproj",
         "packagesPath": "C:\\Users\\Yoza\\.nuget\\packages\\",
-        "outputPath": "C:\\VSC\\Strukdat\\FP\\Fp\\FP_Strukdat\\obj\\",
+        "outputPath": "C:\\VSC\\Strukdat\\FP\\TempFp\\FP_Strukdat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yoza\\AppData\\Roaming\\NuGet\\NuGet.Config"
