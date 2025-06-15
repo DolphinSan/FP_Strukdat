@@ -1,70 +1,71 @@
 using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Text.Json;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
 
 namespace StrukturData
 {
     public class StackNode
     {
-        public int data;
+        public string data;
         public StackNode next;
 
-        public StackNode(int data)
+        public StackNode(string data)
         {
             this.data = data;
             this.next = null;
         }
     }
 
-    public class Stack_LinkedList
+    public class Stack1
     {
         private StackNode top;
 
-        public Stack_LinkedList()
+        public Stack1()
         {
             this.top = null;
         }
 
-        public void Push(int item)
+        public void Push(string item)
         {
             StackNode newNode = new StackNode(item);
             newNode.next = top;
             top = newNode;
         }
 
-        public int Pop()
+        public string Pop()
         {
             if (top == null)
             {
                 Console.WriteLine("Stack kosong");
-                return -1;
+                return null;
             }
-            else
-            {
-                int item = top.data;
-                top = top.next;
-                return item;
-            }
-        }
-
-        public int Peek()
-        {
-            if (top == null)
-            {
-                Console.WriteLine("Stack kosong");
-                return -1;
-            }
-            else
-            {
-                return top.data;
-            }
+            string item = top.data;
+            top = top.next;
+            return item;
         }
 
         public bool IsEmpty()
         {
             return top == null;
+        }
+
+        public void PrintAll()
+        {
+            StackNode current = top;
+            while (current != null)
+            {
+                Console.WriteLine(current.data);
+                current = current.next;
+            }
+        }
+
+        public void Clear()
+        {
+            top = null;
         }
     }
 }
