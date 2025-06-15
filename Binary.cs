@@ -162,7 +162,6 @@ namespace StrukturData
         
         public void Display()
         {
-            Console.WriteLine("\n=== Binary Tree Visualization ===");
             if (root == null)
             {
                 Console.WriteLine("Tree is empty");
