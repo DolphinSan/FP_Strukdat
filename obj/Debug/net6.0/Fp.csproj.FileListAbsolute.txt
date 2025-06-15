@@ -1,0 +1,15 @@
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\Fp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\Fp.AssemblyInfoInputs.cache
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\Fp.AssemblyInfo.cs
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\Fp.csproj.CoreCompileInputs.cache
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\Fp.sourcelink.json
+C:\Users\HP\FP_Strukdat\bin\Debug\net6.0\Fp.exe
+C:\Users\HP\FP_Strukdat\bin\Debug\net6.0\Fp.deps.json
+C:\Users\HP\FP_Strukdat\bin\Debug\net6.0\Fp.runtimeconfig.json
+C:\Users\HP\FP_Strukdat\bin\Debug\net6.0\Fp.dll
+C:\Users\HP\FP_Strukdat\bin\Debug\net6.0\Fp.pdb
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\Fp.dll
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\refint\Fp.dll
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\Fp.pdb
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\Fp.genruntimeconfig.cache
+C:\Users\HP\FP_Strukdat\obj\Debug\net6.0\ref\Fp.dll
